@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Water Deliver App</string>
+    <string name="Edit_name">Edit Name</string>
+    <string name="personal_use">for personal use</string>
+    <string name="office_use">for office</string>
+    <string name="qantity">liters</string>
+</resources>
